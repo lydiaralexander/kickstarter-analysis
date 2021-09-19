@@ -5,6 +5,7 @@ Louise would benefit from visualization of the data so that she can see the outc
 - In the US, there were 525 succesful theatre kickstarters.
 - In GB, we found there to be only 604 total kickstarter campaigns for plays, but the "theatre" category is the most successful.
 ![Outcomes Based on Category] (https://github.com/lydiaralexander/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
+![Outcomes Based on Category] (.md /assets/images/outcomes based on category.png)
 ---
 Another valuable piece of data identified is the launch date of the campaign.  To help Louise plan her timeline, we looked at successful campaigns and the month of their launch date to determine if one month was more successful. With this data we found the following:
 - Successful kickstarter campaigns launched in the month of May had the most successful campaigns compared to all months.
