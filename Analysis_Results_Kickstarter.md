@@ -10,13 +10,13 @@ Louise has come close to being successful in her campign fundraising goal and di
 ### Analysis of Outcomes Based on Launch Date
 The data available for us to complete an analysis for Louise has more information than what we really need.  Therefore, the first step in our process was to filter our data so that we are only looking at the information most relevant to our project.Since Louise is interested in the theatre category, we filtered our information to only include theatre.
 Next, because Louise is interested in knowing outcomes based on launch dates, we created a chart to visualize the results:
-    INSERT "THEATRE OUTCOMES BASED ON LUANCH DATE" HERE
+    ![](Resources/Theatre_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Our next analysis focused on outcomes based on goals set for the campaigns.  We specifically want to to understand the percentage of successful, failed, and canceled based on the funding goal amount.
 
 Dollar-amount ranges for the goals were created and a function was used to populate the number of outcomes that fall within those ranges.  Since Louise is especially interested in the "plays" subcategory of teh theatre category, the function only brought results if the subcategory was "play". From these results, we were able to calcuate the percentage of each outcome based on the goal amount.
-INSERT "OUTCOMES BASED ON GOAL" HERE
+    ![](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 A possible challenge that could be encountered in this analysis is found in the creation of the pivot table for the "Outcomes Based on Launch Date." We created a specific column and used a function so that we would only see the "years." When we create the pivot table, it is important to not use the years for the rows but to use the "date created conversion" so that the month would be included for our analysis. Using only the years would not have given us the information that Louise was looking for.
